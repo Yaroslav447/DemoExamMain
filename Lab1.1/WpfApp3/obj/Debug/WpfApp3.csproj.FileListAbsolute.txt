@@ -1,0 +1,31 @@
+C:\4-1\Trening\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\4-1\Trening\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+C:\4-1\Trening\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\4-1\Trening\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+C:\4-1\Trening\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.SuggestedBindingRedirects.cache
+C:\4-1\Trening\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\4-1\Trening\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+C:\4-1\Trening\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\4-1\Trening\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\4-1\Trening\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+C:\4-1\Trening\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\4-1\Trening\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\4-1\Trening\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\4-1\Trening\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\4-1\Trening\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+C:\4-1\Trening\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\belaev\Documents\Visual Studio\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb

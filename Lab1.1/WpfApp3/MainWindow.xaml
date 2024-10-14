@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FFAFD4C7">
+        <Label Content="Отработка Ввода/Вывода " HorizontalAlignment="Center" Margin="0,29,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Задача: Реализовать функции сложения/вычитания" HorizontalAlignment="Left" Margin="26,88,0,0" VerticalAlignment="Top" Width="499" FontSize="20"/>
+        <Label Content="Аргумент 1:" HorizontalAlignment="Left" Margin="76,197,0,0" VerticalAlignment="Top" Width="128" FontSize="20"/>
+        <Label Content="Аргумент 2:" HorizontalAlignment="Left" Margin="76,246,0,0" VerticalAlignment="Top" Width="128" FontSize="20"/>
+        <TextBox HorizontalAlignment="Left"   x:Name="TextBox1" Margin="209,197,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="99" Height="37"/>
+        <TextBox HorizontalAlignment="Left"  x:Name="TextBox2" Margin="209,246,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="99" Height="37"/>
+        <TextBox HorizontalAlignment="Left" x:Name="result"  Margin="517,165,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="226" Height="154"/>
+        <Button Content="Выполнить" HorizontalAlignment="Left" Margin="481,377,0,0" VerticalAlignment="Top" Height="36" Width="126" Click="Button_Click"/>
+
+    </Grid>
+</Window>
