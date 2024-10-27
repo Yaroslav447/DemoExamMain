@@ -1,0 +1,27 @@
+﻿<Page x:Class="avtoriz.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:avtoriz"
+      mc:Ignorable="d" 
+      d:DesignHeight="400" d:DesignWidth="500"
+      Title="Page2">
+
+    <Grid>
+        <Grid Background="#FFD07E7E">
+            <TextBox x:Name="logboxreg" HorizontalAlignment="Left" Margin="275,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
+            <TextBox x:Name="passboxreg" HorizontalAlignment="Left" Margin="275,212,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
+            <Label Content="Регистрация" HorizontalAlignment="Center" Margin="0,26,0,0" VerticalAlignment="Top" Height="46" Width="172" FontSize="25" RenderTransformOrigin="0.597,0.589" FontWeight="Bold"/>
+            <Label Content="Логин" HorizontalAlignment="Left" Margin="277,105,0,0" VerticalAlignment="Top" FontSize="17"/>
+            <Label Content="Пароль" HorizontalAlignment="Left" Margin="277,179,0,0" VerticalAlignment="Top" FontSize="17"/>
+            <Button Content="Зарегистрироваться" HorizontalAlignment="Left" Margin="250,305,0,0" VerticalAlignment="Top" Height="43" Width="216" FontSize="20" Click="Button_Click"/>
+            <TextBox x:Name="nameboxreg" HorizontalAlignment="Left" Margin="42,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
+            <TextBox x:Name="surnamebox" HorizontalAlignment="Left" Margin="42,212,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
+            <Label Content="Имя" HorizontalAlignment="Left" Margin="42,105,0,0" VerticalAlignment="Top" FontSize="17"/>
+            <Label Content="Фамилия" HorizontalAlignment="Left" Margin="42,179,0,0" VerticalAlignment="Top" FontSize="17"/>
+            <Button Content="Отмена" HorizontalAlignment="Left" Margin="32,305,0,0" VerticalAlignment="Top" Height="43" Width="133" FontSize="20" Click="Button_Click_1"/>
+
+        </Grid>
+    </Grid>
+</Page>
