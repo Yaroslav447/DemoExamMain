@@ -1,6 +1,7 @@
 ﻿using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -33,32 +34,60 @@ namespace avtoriz
             NavigationService.Navigate(new Page1());
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        public Boolean proverka()
         {
 
-            
-            //string loginreg = logboxreg.Text;
-            //string passreg = passboxreg.Text;
-            //string namereg = nameboxreg.Text;
-            //string surnamereg = surnamebox.Text;
+            DataTable table1 = new DataTable();
+
+            MySqlDataAdapter adapter = new MySqlDataAdapter();
             DB db = new DB();
-                    MySqlCommand command = new MySqlCommand("INSERT INTO `users` (`login`, `pass`, `name`, `surname`) VALUES (@log, @pass, @name, @surname)", db.getConnection());
-            command.Parameters.Add("@log", MySqlDbType.VarChar).Value = logboxreg.Text;
-            command.Parameters.Add("@pass", MySqlDbType.VarChar).Value = passboxreg.Text;
-            command.Parameters.Add("@name", MySqlDbType.VarChar).Value = nameboxreg.Text;
-            command.Parameters.Add("@surname", MySqlDbType.VarChar).Value = surnamebox.Text;
+            MySqlCommand command = new MySqlCommand("SELECT * FROM `users` WHERE `login` = @uL ", db.getConnection());
+            command.Parameters.Add("@uL", MySqlDbType.VarChar).Value = logboxreg.Text;
+
+            adapter.SelectCommand = command;
+            adapter.Fill(table1);
+            if (table1.Rows.Count > 0)
+            {
+                MessageBox.Show("Такой логин уже существует");
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (logboxreg.Text!="" & passboxreg.Text != "" & nameboxreg.Text != "" & surnamebox.Text != "")
+            {
+                if (proverka())
+                    return;
+                DB db = new DB();
+                MySqlCommand command = new MySqlCommand("INSERT INTO `users` (`login`, `pass`, `name`, `surname`) VALUES (@log, @pass, @name, @surname)", db.getConnection());
+                command.Parameters.Add("@log", MySqlDbType.VarChar).Value = logboxreg.Text;
+                command.Parameters.Add("@pass", MySqlDbType.VarChar).Value = passboxreg.Text;
+                command.Parameters.Add("@name", MySqlDbType.VarChar).Value = nameboxreg.Text;
+                command.Parameters.Add("@surname", MySqlDbType.VarChar).Value = surnamebox.Text;
 
                 db.openConnection();
-                         if(command.ExecuteNonQuery() == 1)
-                    {
+                if (command.ExecuteNonQuery() == 1)
+                {
                     MessageBox.Show("аккаунт создан!");
-                    }
-                        else
-                    {
+                }
+                else
+                {
                     MessageBox.Show(" аккаунт не создан");
-            }
+                }
 
                 db.closeConnection();
+
+                NavigationService.Navigate(new Page1());
+            }
+            else
+            {
+                MessageBox.Show("Поля не заполнены!");
+            }
         }
     }
 }

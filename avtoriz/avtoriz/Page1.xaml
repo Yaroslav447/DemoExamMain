@@ -5,17 +5,21 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:avtoriz"
       mc:Ignorable="d" 
-      d:DesignHeight="400" d:DesignWidth="500"
-      Title="Page1">
+      MinWidth="400" MinHeight="300"
+      Title="Page1" Height="365" >
 
-    <Grid Background="#FFD07E7E">
-        <Button Content="Войти" HorizontalAlignment="Left" Margin="269,287,0,0" VerticalAlignment="Top" Height="42" Width="148" Click="Button_Click" FontSize="20"/>
+
+    <Grid Background="#FFD07E7E" Margin="0,1,0,-1">
+
+
+        <Button x:Name="button1" Content="Войти" HorizontalAlignment="Stretch" Margin="269,287,0,0" VerticalAlignment="Top" Height="42" Width="148" Click="Button_Click" FontSize="20"/>
         <TextBox x:Name="logbox" HorizontalAlignment="Center" Margin="0,142,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="232" Height="36"/>
         <TextBox x:Name="passbox" HorizontalAlignment="Center" Margin="0,232,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="232" Height="36"/>
-        <Label Content="Авторизация" HorizontalAlignment="Center" Margin="0,26,0,0" VerticalAlignment="Top" Height="46" Width="172" FontSize="25" RenderTransformOrigin="0.597,0.589" FontWeight="Bold"/>
-        <Label Content="Логин" HorizontalAlignment="Left" Margin="134,109,0,0" VerticalAlignment="Top" FontSize="17"/>
-        <Label Content="Пароль" HorizontalAlignment="Left" Margin="134,199,0,0" VerticalAlignment="Top" FontSize="17"/>
-        <Button Content="Регистрация" HorizontalAlignment="Left" Margin="17,284,0,0" VerticalAlignment="Top" FontSize="20" Height="45" Width="146" RenderTransformOrigin="0.506,-0.113" Click="Button_Click_1"/>
+        <Label Content="Авторизация" HorizontalAlignment="Center" Margin="0,26,0,0" VerticalAlignment="Top" Height="46" Width="172" FontSize="25" RenderTransformOrigin="0.597,0.589"/>
+        <Label Content="Логин" HorizontalAlignment="Stretch" Margin="0,99,0,0" VerticalAlignment="Top" Height="46" Width="172" FontSize="25" RenderTransformOrigin="0.597,0.589"/>
+        <Label Content="" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="46" Width="172" FontSize="25" RenderTransformOrigin="0.597,0.589"/>
+        <Label Content="Пароль" HorizontalAlignment="Stretch" VerticalAlignment="Top" Height="46" Width="172" FontSize="25" RenderTransformOrigin="0.597,0.589" Margin="0,191,0,0"/>
+        <Button Content="Регистрация" Margin="31,287,242,0" VerticalAlignment="Top" Height="42" Width="145" FontSize="17" Click="Button_Click_2"/>
 
     </Grid>
 </Page>
