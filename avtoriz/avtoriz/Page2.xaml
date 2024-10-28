@@ -10,17 +10,17 @@
 
     <Grid>
         <Grid Background="#FFD07E7E">
-            <TextBox x:Name="logboxreg" HorizontalAlignment="Left" Margin="275,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
-            <TextBox x:Name="passboxreg" HorizontalAlignment="Left" Margin="275,212,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
-            <Label Content="Регистрация" HorizontalAlignment="Center" Margin="0,26,0,0" VerticalAlignment="Top" Height="46" Width="172" FontSize="25" RenderTransformOrigin="0.597,0.589" FontWeight="Bold"/>
-            <Label Content="Логин" HorizontalAlignment="Left" Margin="277,105,0,0" VerticalAlignment="Top" FontSize="17"/>
-            <Label Content="Пароль" HorizontalAlignment="Left" Margin="277,179,0,0" VerticalAlignment="Top" FontSize="17"/>
-            <Button Content="Зарегистрироваться" HorizontalAlignment="Left" Margin="250,305,0,0" VerticalAlignment="Top" Height="43" Width="216" FontSize="20" Click="Button_Click"/>
-            <TextBox x:Name="nameboxreg" HorizontalAlignment="Left" Margin="42,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
-            <TextBox x:Name="surnamebox" HorizontalAlignment="Left" Margin="42,212,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
-            <Label Content="Имя" HorizontalAlignment="Left" Margin="42,105,0,0" VerticalAlignment="Top" FontSize="17"/>
-            <Label Content="Фамилия" HorizontalAlignment="Left" Margin="42,179,0,0" VerticalAlignment="Top" FontSize="17"/>
-            <Button Content="Отмена" HorizontalAlignment="Left" Margin="32,305,0,0" VerticalAlignment="Top" Height="43" Width="133" FontSize="20" Click="Button_Click_1"/>
+            <TextBox x:Name="logboxreg" HorizontalAlignment="Stretch" Margin="275,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
+            <TextBox x:Name="passboxreg" HorizontalAlignment="Stretch" Margin="275,212,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
+            <Label Content="Регистрация" HorizontalAlignment="Stretch" Margin="0,26,0,0" VerticalAlignment="Top" Height="46" Width="172" FontSize="25" RenderTransformOrigin="0.597,0.589" FontWeight="Bold"/>
+            <Button Content="Зарегистрироваться" HorizontalAlignment="Stretch" Margin="250,305,0,0" VerticalAlignment="Top" Height="43" Width="216" FontSize="20" Click="Button_Click"/>
+            <TextBox x:Name="nameboxreg" Margin="42,138,267,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
+            <TextBox x:Name="surnamebox" Margin="42,212,267,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
+            <Button Content="Отмена" Margin="42,305,325,0" VerticalAlignment="Top" Height="43" Width="133" FontSize="20" Click="Button_Click_1"/>
+            <Label Content="Фамилия" Height="39" Margin="45,99,333,0" VerticalAlignment="Top" Width="122" FontSize="18"/>
+            <Label Content="Имя" Height="39" Margin="45,173,333,0" VerticalAlignment="Top" Width="122" FontSize="18"/>
+            <Label Content="Логин" Height="39" Margin="296,99,82,0" VerticalAlignment="Top" Width="122" FontSize="18"/>
+            <Label Content="Пароль" Height="39" Margin="296,173,82,0" VerticalAlignment="Top" Width="122" FontSize="18"/>
 
         </Grid>
     </Grid>

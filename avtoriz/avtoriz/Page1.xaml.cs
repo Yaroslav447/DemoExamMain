@@ -60,5 +60,15 @@ namespace avtoriz
         {
             NavigationService.Navigate(new Page2());
         }
+
+        private void ColumnDefinition_TouchEnter(object sender, TouchEventArgs e)
+        {
+
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Page2());
+        }
     }
 }

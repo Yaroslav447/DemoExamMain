@@ -5,6 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:avtoriz"
         mc:Ignorable="d"
-        Title="MainWindow" Height="400" Width="450">
+        Title="MainWindow" 
+        MinWidth="500" 
+        MinHeight="400" 
+        MaxWidth="800" 
+        MaxHeight="600" Background="#FFD07E7E">
     <Frame Name="MainFrame" NavigationUIVisibility="Hidden"/>
 </Window>
