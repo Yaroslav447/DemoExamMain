@@ -11,7 +11,7 @@
     <Grid>
         <Grid Background="#FFD07E7E">
             <TextBox x:Name="logboxreg" HorizontalAlignment="Stretch" Margin="275,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
-            <TextBox x:Name="passboxreg" HorizontalAlignment="Stretch" Margin="275,212,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
+            <PasswordBox x:Name="passboxreg" HorizontalAlignment="Stretch" Margin="275,212,0,0" VerticalAlignment="Top" Width="191" Height="36"/>
             <Label Content="Регистрация" HorizontalAlignment="Stretch" Margin="0,26,0,0" VerticalAlignment="Top" Height="46" Width="172" FontSize="25" RenderTransformOrigin="0.597,0.589" FontWeight="Bold"/>
             <Button Content="Зарегистрироваться" HorizontalAlignment="Stretch" Margin="250,305,0,0" VerticalAlignment="Top" Height="43" Width="216" FontSize="20" Click="Button_Click"/>
             <TextBox x:Name="nameboxreg" Margin="42,138,267,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>

@@ -30,7 +30,7 @@ namespace avtoriz
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             string loginUser= logbox.Text;
-            string passwordUser = passbox.Text;
+            string passwordUser = passbox.Password;
 
             DB db = new DB();
 
@@ -48,7 +48,7 @@ namespace avtoriz
 
             if (table.Rows.Count > 0)
             {
-                MessageBox.Show("Готово");
+                NavigationService.Navigate(new Page3());
             }
             else
             {

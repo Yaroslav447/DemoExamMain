@@ -14,7 +14,7 @@
 
         <Button x:Name="button1" Content="Войти" HorizontalAlignment="Stretch" Margin="269,287,0,0" VerticalAlignment="Top" Height="42" Width="148" Click="Button_Click" FontSize="20"/>
         <TextBox x:Name="logbox" HorizontalAlignment="Center" Margin="0,142,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="232" Height="36"/>
-        <TextBox x:Name="passbox" HorizontalAlignment="Center" Margin="0,232,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="232" Height="36"/>
+        <PasswordBox x:Name="passbox" HorizontalAlignment="Center" Margin="0,232,0,0"  VerticalAlignment="Top" Width="232" Height="36"/>
         <Label Content="Авторизация" HorizontalAlignment="Center" Margin="0,26,0,0" VerticalAlignment="Top" Height="46" Width="172" FontSize="25" RenderTransformOrigin="0.597,0.589"/>
         <Label Content="Логин" HorizontalAlignment="Stretch" Margin="0,99,0,0" VerticalAlignment="Top" Height="46" Width="172" FontSize="25" RenderTransformOrigin="0.597,0.589"/>
         <Label Content="" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="46" Width="172" FontSize="25" RenderTransformOrigin="0.597,0.589"/>

@@ -59,14 +59,14 @@ namespace avtoriz
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if (logboxreg.Text!="" & passboxreg.Text != "" & nameboxreg.Text != "" & surnamebox.Text != "")
+            if (logboxreg.Text != "" & passboxreg.Password != "" & nameboxreg.Text != "" & surnamebox.Text != "")
             {
                 if (proverka())
                     return;
                 DB db = new DB();
                 MySqlCommand command = new MySqlCommand("INSERT INTO `users` (`login`, `pass`, `name`, `surname`) VALUES (@log, @pass, @name, @surname)", db.getConnection());
                 command.Parameters.Add("@log", MySqlDbType.VarChar).Value = logboxreg.Text;
-                command.Parameters.Add("@pass", MySqlDbType.VarChar).Value = passboxreg.Text;
+                command.Parameters.Add("@pass", MySqlDbType.VarChar).Value = passboxreg.Password;
                 command.Parameters.Add("@name", MySqlDbType.VarChar).Value = nameboxreg.Text;
                 command.Parameters.Add("@surname", MySqlDbType.VarChar).Value = surnamebox.Text;
 

@@ -102,3 +102,5 @@ C:\Users\belaev\Documents\GitHub\DemoExamMain\avtoriz\avtoriz\obj\Debug\avtoriz.
 C:\Users\belaev\Documents\GitHub\DemoExamMain\avtoriz\avtoriz\obj\Debug\avtoriz.csproj.Up2Date
 C:\Users\belaev\Documents\GitHub\DemoExamMain\avtoriz\avtoriz\obj\Debug\avtoriz.exe
 C:\Users\belaev\Documents\GitHub\DemoExamMain\avtoriz\avtoriz\obj\Debug\avtoriz.pdb
+C:\Users\belaev\Documents\GitHub\DemoExamMain\avtoriz\avtoriz\obj\Debug\Page3.g.cs
+C:\Users\belaev\Documents\GitHub\DemoExamMain\avtoriz\avtoriz\obj\Debug\Page3.baml
