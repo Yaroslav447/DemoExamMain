@@ -45,10 +45,20 @@ namespace avtoriz
             adapter.SelectCommand = command;
             adapter.Fill(table);
 
+            DataTable table2 = new DataTable();
+            MySqlDataAdapter adapter2 = new MySqlDataAdapter();
+            MySqlCommand command2 = new MySqlCommand("SELECT * FROM `users` WHERE `login` = '@uL1' AND prava = 'admin'", db.getConnection());
+            command2.Parameters.Add("@uL1", MySqlDbType.VarChar).Value = loginUser;
+            adapter2.SelectCommand = command2;
+            adapter2.Fill(table2);
 
             if (table.Rows.Count > 0)
             {
-                NavigationService.Navigate(new Page3());
+               if(table2.Rows.Count > 0)
+                {
+                    NavigationService.Navigate(new Page3());
+                }
+               // NavigationService.Navigate(new Page3());
             }
             else
             {
