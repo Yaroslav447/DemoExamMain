@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace avtoriz
 {
     /// <summary>
-    /// Логика взаимодействия для Page3.xaml
+    /// Логика взаимодействия для Page4.xaml
     /// </summary>
-    public partial class Page3 : Page
+    public partial class Page4 : Page
     {
-        public Page3()
+        public Page4()
         {
             InitializeComponent();
         }

@@ -104,3 +104,5 @@ C:\Users\belaev\Documents\GitHub\DemoExamMain\avtoriz\avtoriz\obj\Debug\avtoriz.
 C:\Users\belaev\Documents\GitHub\DemoExamMain\avtoriz\avtoriz\obj\Debug\avtoriz.pdb
 C:\Users\belaev\Documents\GitHub\DemoExamMain\avtoriz\avtoriz\obj\Debug\Page3.g.cs
 C:\Users\belaev\Documents\GitHub\DemoExamMain\avtoriz\avtoriz\obj\Debug\Page3.baml
+C:\Users\belaev\Documents\GitHub\DemoExamMain\avtoriz\avtoriz\obj\Debug\Page4.g.cs
+C:\Users\belaev\Documents\GitHub\DemoExamMain\avtoriz\avtoriz\obj\Debug\Page4.baml

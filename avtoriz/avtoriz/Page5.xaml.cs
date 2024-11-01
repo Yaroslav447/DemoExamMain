@@ -16,18 +16,13 @@ using System.Windows.Shapes;
 namespace avtoriz
 {
     /// <summary>
-    /// Логика взаимодействия для Page3.xaml
+    /// Логика взаимодействия для Page5.xaml
     /// </summary>
-    public partial class Page3 : Page
+    public partial class Page5 : Page
     {
-        public Page3()
+        public Page5()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            NavigationService.Navigate(new Page1());
         }
     }
 }

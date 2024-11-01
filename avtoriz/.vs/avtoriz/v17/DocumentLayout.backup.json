@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|c:\\users\\belaev\\documents\\github\\demoexammain\\avtoriz\\avtoriz\\page5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|solutionrelative:avtoriz\\page5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|c:\\users\\belaev\\documents\\github\\demoexammain\\avtoriz\\avtoriz\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|solutionrelative:avtoriz\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|c:\\users\\belaev\\documents\\github\\demoexammain\\avtoriz\\avtoriz\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|solutionrelative:avtoriz\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|solutionrelative:avtoriz\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|c:\\users\\belaev\\documents\\github\\demoexammain\\avtoriz\\avtoriz\\page4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|solutionrelative:avtoriz\\page4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|solutionrelative:avtoriz\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|c:\\users\\belaev\\documents\\github\\demoexammain\\avtoriz\\avtoriz\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|solutionrelative:avtoriz\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|solutionrelative:avtoriz\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,18 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|solutionrelative:avtoriz\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|solutionrelative:avtoriz\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|solutionrelative:avtoriz\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|c:\\users\\belaev\\documents\\github\\demoexammain\\avtoriz\\avtoriz\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|solutionrelative:avtoriz\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03544E0B-81C3-429C-8B66-2014810ACEF0}|avtoriz\\avtoriz.csproj|C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -42,11 +58,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Page5.xaml",
+              "DocumentMoniker": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page5.xaml",
+              "RelativeDocumentMoniker": "avtoriz\\Page5.xaml",
+              "ToolTip": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page5.xaml",
+              "RelativeToolTip": "avtoriz\\Page5.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T15:17:32.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page3.xaml.cs",
+              "RelativeDocumentMoniker": "avtoriz\\Page3.xaml.cs",
+              "ToolTip": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page3.xaml.cs",
+              "RelativeToolTip": "avtoriz\\Page3.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:03:18.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page4.xaml.cs",
+              "RelativeDocumentMoniker": "avtoriz\\Page4.xaml.cs",
+              "ToolTip": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page4.xaml.cs",
+              "RelativeToolTip": "avtoriz\\Page4.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:57:06.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page4.xaml",
+              "DocumentMoniker": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page4.xaml",
+              "RelativeDocumentMoniker": "avtoriz\\Page4.xaml",
+              "ToolTip": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page4.xaml",
+              "RelativeToolTip": "avtoriz\\Page4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T12:52:44.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Page3.xaml",
               "DocumentMoniker": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page3.xaml",
               "RelativeDocumentMoniker": "avtoriz\\Page3.xaml",
@@ -58,32 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Page1.xaml",
-              "DocumentMoniker": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page1.xaml",
-              "RelativeDocumentMoniker": "avtoriz\\Page1.xaml",
-              "ToolTip": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page1.xaml",
-              "RelativeToolTip": "avtoriz\\Page1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-27T13:21:53.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Page1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page1.xaml.cs",
-              "RelativeDocumentMoniker": "avtoriz\\Page1.xaml.cs",
-              "ToolTip": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page1.xaml.cs*",
-              "RelativeToolTip": "avtoriz\\Page1.xaml.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAtwDEAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T13:25:43.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Page2.xaml",
               "DocumentMoniker": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page2.xaml",
               "RelativeDocumentMoniker": "avtoriz\\Page2.xaml",
@@ -95,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Page2.xaml.cs",
               "DocumentMoniker": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page2.xaml.cs",
               "RelativeDocumentMoniker": "avtoriz\\Page2.xaml.cs",
@@ -108,7 +149,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page1.xaml",
+              "RelativeDocumentMoniker": "avtoriz\\Page1.xaml",
+              "ToolTip": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page1.xaml",
+              "RelativeToolTip": "avtoriz\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-27T13:21:53.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "avtoriz\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\Page1.xaml.cs",
+              "RelativeToolTip": "avtoriz\\Page1.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:25:43.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DB.cs",
               "DocumentMoniker": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\DB.cs",
               "RelativeDocumentMoniker": "avtoriz\\DB.cs",
@@ -116,24 +182,22 @@
               "RelativeToolTip": "avtoriz\\DB.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T14:38:38.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T14:38:38.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\MainWindow.xaml",
               "RelativeDocumentMoniker": "avtoriz\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\MainWindow.xaml",
               "RelativeToolTip": "avtoriz\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-25T15:21:47.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T15:21:47.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\belaev\\Documents\\GitHub\\DemoExamMain\\avtoriz\\avtoriz\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "avtoriz\\MainWindow.xaml.cs",
@@ -141,8 +205,7 @@
               "RelativeToolTip": "avtoriz\\MainWindow.xaml.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAnwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T13:21:32.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T13:21:32.574Z"
             }
           ]
         }

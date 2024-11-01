@@ -9,7 +9,9 @@
       Title="Page3">
 
     <Grid Background="#FFD07E7E" Margin="0,1,0,-1">
-        <Label Content="Добро пожаловать!" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Добро пожаловать, администратор!" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top"/>
+        <Button Content="Сменить пользователя" HorizontalAlignment="Stretch" Margin="250,36,0,0" VerticalAlignment="Top" Width="140" Click="Button_Click"/>
+        <Button Content="Добавить пользователя" HorizontalAlignment="Left" Margin="10,81,0,0" VerticalAlignment="Top" Width="154"/>
 
     </Grid>
 </Page>

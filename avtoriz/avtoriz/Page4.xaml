@@ -1,0 +1,16 @@
+﻿<Page x:Class="avtoriz.Page4"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:avtoriz"
+      mc:Ignorable="d" 
+       MinWidth="400" MinHeight="300"
+      Title="Page4">
+
+    <Grid Background="#FFD07E7E" Margin="0,1,0,-1">
+        <Label Content="Добро пожаловать!" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top"/>
+        <Button Content="Сменить пользователя" HorizontalAlignment="Stretch" Margin="250,36,0,0" VerticalAlignment="Top" Width="140"/>
+
+    </Grid>
+</Page>
