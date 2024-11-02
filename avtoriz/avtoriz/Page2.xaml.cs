@@ -64,7 +64,7 @@ namespace avtoriz
                 if (proverka())
                     return;
                 DB db = new DB();
-                MySqlCommand command = new MySqlCommand("INSERT INTO `users` (`login`, `pass`, `name`, `surname`) VALUES (@log, @pass, @name, @surname)", db.getConnection());
+                MySqlCommand command = new MySqlCommand("INSERT INTO `users` (`login`, `pass`, `name`, `surname`,`prava`) VALUES (@log, @pass, @name, @surname,'user')", db.getConnection());
                 command.Parameters.Add("@log", MySqlDbType.VarChar).Value = logboxreg.Text;
                 command.Parameters.Add("@pass", MySqlDbType.VarChar).Value = passboxreg.Password;
                 command.Parameters.Add("@name", MySqlDbType.VarChar).Value = nameboxreg.Text;

@@ -10,7 +10,7 @@
 
     <Grid Background="#FFD07E7E" Margin="0,1,0,-1">
         <Label Content="Добро пожаловать!" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top"/>
-        <Button Content="Сменить пользователя" HorizontalAlignment="Stretch" Margin="250,36,0,0" VerticalAlignment="Top" Width="140"/>
+        <Button Content="Сменить пользователя" HorizontalAlignment="Stretch" Margin="250,36,0,0" VerticalAlignment="Top" Width="140" Click="Button_Click_1"/>
 
     </Grid>
 </Page>

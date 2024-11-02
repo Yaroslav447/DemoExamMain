@@ -9,6 +9,23 @@
       Title="Page5">
 
     <Grid Background="#FFD07E7E" Margin="0,1,0,-1">
+        <Label Content="Создание пользователя" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="288" FontSize="25"/>
+        <TextBox x:Name="logboxRegAdm" Margin="288,97,21,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
+        <PasswordBox x:Name="passboxRegAdm" Margin="292,174,17,0" VerticalAlignment="Top" Width="191" Height="36"/>
+        <TextBox x:Name="nameboxRegAdm" Margin="42,97,267,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
+        <TextBox x:Name="surnameboxAdm" Margin="42,174,267,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="191" Height="36"/>
+        <Label Content="Фамилия" Height="39" Margin="45,58,333,0" VerticalAlignment="Top" Width="122" FontSize="18"/>
+        <Label Content="Имя" Height="39" Margin="45,135,333,0" VerticalAlignment="Top" Width="122" FontSize="18"/>
+        <Label Content="Логин" Height="39" Margin="292,58,86,0" VerticalAlignment="Top" Width="122" FontSize="18"/>
+        <Label Content="Пароль" Height="39" Margin="296,135,82,0" VerticalAlignment="Top" Width="122" FontSize="18"/>
+        <Label Content="Права" Height="39" Margin="45,210,333,0" VerticalAlignment="Top" Width="122" FontSize="18"/>
+        <ComboBox x:Name="pravareg" Height="38" Margin="45,240,267,0" VerticalAlignment="Top" Width="192" FontSize="18">
+            <TextBlock><Run Text="Пользователь"/></TextBlock>
+            <TextBlock><Run Text="Администратор"/></TextBlock>
+            <TextBlock><Run Text="Супер админ"/></TextBlock>
 
+        </ComboBox>
+        <Button Content="Создать" Margin="387,224,17,0" VerticalAlignment="Top" Height="31" Width="96" Click="Button_Click"/>
+        <Button x:Name="back" Content="Отмена" Margin="288,224,120,0" VerticalAlignment="Top" Height="31" Width="96" Click="back_Click"/>
     </Grid>
 </Page>
