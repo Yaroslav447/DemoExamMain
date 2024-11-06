@@ -10,7 +10,7 @@ namespace avtoriz
 {
     internal class DB
     {
-        MySqlConnection connection = new MySqlConnection("server=localhost;port=3306;username=root;password=root;database=test");
+        MySqlConnection connection = new MySqlConnection("server=192.168.1.200;port=3306;username=stis4-01;password=dKR3&b&k9y;database=belavtoriz");
 
         public void openConnection()
         {

@@ -31,11 +31,9 @@ namespace avtoriz
         {
             string loginUser= logbox.Text;
             string passwordUser = passbox.Password;
-            string prava;
+            
             DB db = new DB();
-
             DataTable table = new DataTable();
-
             MySqlDataAdapter adapter = new MySqlDataAdapter();
 
             MySqlCommand command = new MySqlCommand("SELECT * FROM `users` WHERE `login` = @uL AND `pass`= @uP", db.getConnection());
@@ -47,7 +45,8 @@ namespace avtoriz
 
             DataTable table2 = new DataTable();
             MySqlDataAdapter adapter2 = new MySqlDataAdapter();
-            MySqlCommand command2 = new MySqlCommand("SELECT * FROM `users` WHERE `login` = @uL1 AND prava = 'admin'", db.getConnection());
+            MySqlCommand command2 = new MySqlCommand("SELECT * FROM `users`" +
+                " WHERE `login` = @uL1 AND prava = 'admin'", db.getConnection());
             command2.Parameters.Add("@uL1", MySqlDbType.VarChar).Value = loginUser;
             adapter2.SelectCommand = command2;
             adapter2.Fill(table2);
